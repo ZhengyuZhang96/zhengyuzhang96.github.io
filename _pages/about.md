@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Dr. Shishun Tian is currently an Associate Professor at the College of Electronics and Information Engineering, Shenzhen University. He received his Ph.D. in 2019 from the National Institute of Applied Sciences (INSA) in Rennes, France. In the same year, he joined Shenzhen University, where he has been engaged in teaching and research in the fields of image/video quality assessment, computer vision, and deep learning. He was selected as a Class-C talent under the Shenzhen Peacock Plan for Overseas High-Level Talents. He has presided over research projects funded by the National Natural Science Foundation of China and the Natural Science Foundation of Guangdong Province. He has published over 40 papers in top-tier journals and conferences, including IEEE TIP, IEEE TMM, IEEE JSTSP, and TITS. He has also served as a reviewer for several prestigious journals and conferences, such as IEEE TPAMI, IEEE TIP, IEEE TCSVT, IEEE TMM, ACM SIGGRAPH, IEEE CVPR, and IEEE ICME.
+I'm currently an Assistant Professor with the School of Electronics and Communication Engineering, Guangzhou University, Guangzhou, China. I received the B.E. degree from Guangzhou University, Guangzhou, China, the M.E. degree from Shenzhen University, Shenzhen, China, and the Ph.D. degree from the National Institute of Applied Sciences, Rennes, France, in 2018, 2021, and 2024, respectively. My research interests include image/video quality assessment, 3D reconstruction, light field imaging, visual perception, and deep learning. I has published 20+ papers in top journals and conferences, including IEEE TIP, IEEE TMM, IEEE TCSVT and IEEE JSTSP. I am currently leading the research projects funded by the National Natural Science Foundation of China and the Natural Science Foundation of Guangdong Province.
 
-# 📖 Educations
-- *2015 - 2019*, Ph.D. National Institute of Applied Sciences, Rennes, France. 
-- *2012 - 2015*, M.Sc. Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences, Changchun, China. 
-- *2008 - 2012*, B.Sc. Sichuan University, Chengdu, China.
+# 🎓 Educations
+- *2021/10 - 2024/07*, Ph.D. National Institute of Applied Sciences, Rennes, France. 
+- *2018/09 - 2021/06*, M.E. Shenzhen University, Shenzhen, China. 
+- *2014/09 - 2018/06*, B.E. Guangzhou University, Guangzhou, China.
 
 
-# 📝 Selected Publications 
+# 📑 Selected Publications 
 ## Journal:
 
 - Zhengyu Zhang; **Shishun Tian<sup>\*</sup>**; Jianjun Xiang; Wenbin Zou; Luce Morin; Lu Zhang, Blind Light Field Image Quality Assessment Using Multiplane Texture and Multilevel Wavelet Information, **IEEE Transactions on Broadcasting**, 2025. ([PDF](https://ieeexplore.ieee.org/document/11231044), [Code](https://github.com/ZhengyuZhang96/MPT-MWI-BLiF))
