@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shishun Tian (田时舜)"
-description              : "College of Electronics and Information Engineering, Shenzhen University"
-repository               : "Shishuntian/shishuntian.github.io"
+title                    : "Zhengyu Zhang (张正宇)"
+description              : "School of Electronics and Communication Engineering, Guangzhou University"
+repository               : "ZhengyuZhang96/zhengyuzhang96.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shishun Tian<br/>(田时舜)"
-  avatar           : "images/tianshishun.jpg"
-  bio              : "Ph.D. Associate Professor"
-  employer         : "Shenzhen University"
-  location         : # "Shenzhen, China"
+  name             : "Zhengyu Zhang<br/>(张正宇)"
+  avatar           : "images/ZhengyuZhang.jpg"
+  bio              : "Ph.D. Assistant Professor"
+  employer         : Guangzhou University"
+  location         : # Guangzhou, China"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=gk8puWMAAAAJ&hl=zh-CN"
-  email            : "stian@szu.edu.cn"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=en&user=WZYvDkAAAAAJ"
+  email            : "zhengyuzhang@gzhu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   url              :
   bitbucket        :
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/201/7429.html"
-  orcid            : "https://orcid.org/0000-0002-7616-8382"
+  dblp             : 
+  orcid            : "https://orcid.org/0000-0002-8385-4890"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
