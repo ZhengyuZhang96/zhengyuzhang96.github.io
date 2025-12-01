@@ -45,6 +45,6 @@ I'm currently an Assistant Professor with the School of Electronics and Communic
 
 
 
-# 🧑‍🏫 Teaching
+# 🧑‍ Academic Services
 
 - Machine Learning (2025 Spring, 2024 Spring, 2023 Spring, 2022 Spring)
