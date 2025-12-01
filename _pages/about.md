@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently an Assistant Professor with the School of Electronics and Communication Engineering, Guangzhou University, Guangzhou, China. I received the B.E. degree from Guangzhou University, Guangzhou, China, the M.E. degree from Shenzhen University, Shenzhen, China, and the Ph.D. degree from the National Institute of Applied Sciences, Rennes, France, in 2018, 2021, and 2024, respectively. My research interests include image/video quality assessment, 3D reconstruction, light field imaging, visual perception, and deep learning. I has published 20+ papers in top journals and conferences, including IEEE TIP, IEEE TMM, IEEE TCSVT and IEEE JSTSP. I am currently leading the research projects funded by the National Natural Science Foundation of China and the Natural Science Foundation of Guangdong Province.
+I'm currently an Assistant Professor with the School of Electronics and Communication Engineering, Guangzhou University, Guangzhou, China. I received the B.E. degree from Guangzhou University, Guangzhou, China, the M.E. degree from Shenzhen University, Shenzhen, China, and the Ph.D. degree from the National Institute of Applied Sciences, Rennes, France, in 2018, 2021, and 2024, respectively. My research interests include image/video quality assessment, 3D reconstruction, light field imaging, visual perception, and deep learning. I has published 20+ papers in top journals and conferences, including IEEE TIP, TMM, TCSVT and JSTSP. I am currently leading the research projects funded by the National Natural Science Foundation of China and the Natural Science Foundation of Guangdong Province.
 
 # 🎓 Educations
 - *2021/10 - 2024/07*, Ph.D. National Institute of Applied Sciences, Rennes, France. 
@@ -44,7 +44,12 @@ I'm currently an Assistant Professor with the School of Electronics and Communic
 - **Zhengyu Zhang**, Shishun Tian, Wenbin Zou, Luce Morin, Lu Zhang, Deeblif: Deep Blind Light Field Image Quality Assessment by Extracting Angular and Spatial Information, **IEEE International Conference on Image Processing (ICIP)**, 2022. ([PDF](https://ieeexplore.ieee.org/abstract/document/9897951), [Code](https://github.com/ZhengyuZhang96/DeeBLiF))
 
 
-
 # 🧑‍ Academic Services
 
-- Machine Learning (2025 Spring, 2024 Spring, 2023 Spring, 2022 Spring)
+• Journal Reviewer: IEEE TIP, TMM, TCSVT, JSTSP, TBC, etc.
+• Conference Reviewer: CVPR, ICME, ICIP, ICASSP, etc.
+
+# 👨🏻‍💻‍ Teaching
+
+• Probability, Statistics, and Stochastic Processes (2025 Spring)
+• Advanced Programming with Python (2025 Fall)
