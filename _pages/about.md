@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I'm Zhengyu Zhang, welcome to my homepage!
 
-I'm currently an Assistant Professor with the School of Electronics and Communication Engineering, Guangzhou University, Guangzhou, China. I received the B.E. degree from Guangzhou University, Guangzhou, China, the M.E. degree from Shenzhen University, Shenzhen, China, and the Ph.D. degree from the National Institute of Applied Sciences, Rennes, France, in 2018, 2021, and 2024, respectively. My research interests include image/video quality assessment, 3D reconstruction, light field imaging, visual perception, and deep learning. I has published 20+ papers in top journals and conferences, including TIP, TMM, TCSVT and JSTSP. I am currently leading the research projects funded by the National Natural Science Foundation of China and the Natural Science Foundation of Guangdong Province.
+I'm currently an Assistant Professor with the School of Electronics and Communication Engineering, Guangzhou University, Guangzhou, China. I received the B.E. degree from Guangzhou University, Guangzhou, China, the M.E. degree from Shenzhen University, Shenzhen, China, and the Ph.D. degree from the National Institute of Applied Sciences, Rennes, France, in 2018, 2021, and 2024, respectively. My research interests include image/video quality assessment, 3D reconstruction, light field imaging, visual perception, and deep learning. I has published 20+ papers in top journals and conferences, including TIP, TMM, TCSVT, and JSTSP. I am currently leading the research projects funded by the National Natural Science Foundation of China and the Natural Science Foundation of Guangdong Province.
 
 # 🎓 Educations
 - *2021/10 - 2024/07*, Ph.D. National Institute of Applied Sciences, Rennes, France. 
