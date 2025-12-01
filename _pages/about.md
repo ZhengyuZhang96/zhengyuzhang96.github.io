@@ -21,11 +21,11 @@ I'm currently an Assistant Professor with the School of Electronics and Communic
 
 # 🎓 Educations
 - *2021/10 - 2024/07*, Ph.D. National Institute of Applied Sciences, Rennes, France. 
-- *2018/09 - 2021/06*, M.E. Shenzhen University, Shenzhen, China. 
+- *2018/09 - 2021/06*, M.E. Shenzhen University, Shenzhen, China.
 - *2014/09 - 2018/06*, B.E. Guangzhou University, Guangzhou, China.
 
 
-# 📑 Selected Publications 
+# 🔥 Selected Publications 
 ## Journal:
 
 - **Zhengyu Zhang**; Shishun Tian; Jianjun Xiang; Wenbin Zou; Luce Morin; Lu Zhang, Blind Light Field Image Quality Assessment Using Multiplane Texture and Multilevel Wavelet Information, **IEEE Transactions on Broadcasting**, 2025. ([PDF](https://ieeexplore.ieee.org/document/11231044), [Code](https://github.com/ZhengyuZhang96/MPT-MWI-BLiF))
@@ -44,12 +44,13 @@ I'm currently an Assistant Professor with the School of Electronics and Communic
 - **Zhengyu Zhang**, Shishun Tian, Wenbin Zou, Luce Morin, Lu Zhang, Deeblif: Deep Blind Light Field Image Quality Assessment by Extracting Angular and Spatial Information, **IEEE International Conference on Image Processing (ICIP)**, 2022. ([PDF](https://ieeexplore.ieee.org/abstract/document/9897951), [Code](https://github.com/ZhengyuZhang96/DeeBLiF))
 
 
-# 🧑‍ Academic Services
+# 📑‍ Academic Services
 
-• Journal Reviewer: IEEE TIP, TMM, TCSVT, JSTSP, TBC, etc.
-• Conference Reviewer: CVPR, ICME, ICIP, ICASSP, etc.
+- Journal Reviewer: IEEE TIP, TMM, TCSVT, JSTSP, TBC, etc.
+- Conference Reviewer: CVPR, ICME, ICIP, ICASSP, etc.
+
 
 # 👨🏻‍💻‍ Teaching
 
-• Probability, Statistics, and Stochastic Processes (2025 Spring)
-• Advanced Programming with Python (2025 Fall)
+- Probability, Statistics, and Stochastic Processes (2025 Spring)
+- Advanced Programming with Python (2025 Fall)
